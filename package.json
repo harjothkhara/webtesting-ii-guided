@@ -27,7 +27,10 @@
     "react-dom": "^16.8.4",
     "react-scripts": "2.1.8"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "jest-dom": "^3.5.0",
+    "react-testing-library": "^8.0.1"
+  },
   "eslintConfig": {
     "extends": "react-app"
   },
